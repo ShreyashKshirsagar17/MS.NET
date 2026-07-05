@@ -1,0 +1,14 @@
+C:\Users\SHREYASH\source\repos\02Demo_OOP\bin\Debug\net8.0\02Demo_OOP.exe
+C:\Users\SHREYASH\source\repos\02Demo_OOP\bin\Debug\net8.0\02Demo_OOP.deps.json
+C:\Users\SHREYASH\source\repos\02Demo_OOP\bin\Debug\net8.0\02Demo_OOP.runtimeconfig.json
+C:\Users\SHREYASH\source\repos\02Demo_OOP\bin\Debug\net8.0\02Demo_OOP.dll
+C:\Users\SHREYASH\source\repos\02Demo_OOP\bin\Debug\net8.0\02Demo_OOP.pdb
+C:\Users\SHREYASH\source\repos\02Demo_OOP\obj\Debug\net8.0\02Demo_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHREYASH\source\repos\02Demo_OOP\obj\Debug\net8.0\02Demo_OOP.AssemblyInfoInputs.cache
+C:\Users\SHREYASH\source\repos\02Demo_OOP\obj\Debug\net8.0\02Demo_OOP.AssemblyInfo.cs
+C:\Users\SHREYASH\source\repos\02Demo_OOP\obj\Debug\net8.0\02Demo_OOP.csproj.CoreCompileInputs.cache
+C:\Users\SHREYASH\source\repos\02Demo_OOP\obj\Debug\net8.0\02Demo_OOP.dll
+C:\Users\SHREYASH\source\repos\02Demo_OOP\obj\Debug\net8.0\refint\02Demo_OOP.dll
+C:\Users\SHREYASH\source\repos\02Demo_OOP\obj\Debug\net8.0\02Demo_OOP.pdb
+C:\Users\SHREYASH\source\repos\02Demo_OOP\obj\Debug\net8.0\02Demo_OOP.genruntimeconfig.cache
+C:\Users\SHREYASH\source\repos\02Demo_OOP\obj\Debug\net8.0\ref\02Demo_OOP.dll
